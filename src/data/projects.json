@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/movie.png",
+      "description": "This is a project made to get knowledge about Animated Movies by building a web app.",
+      "skills": ["PHP", "Laravel", "MySQL"],
+      "demo": "https://www.example.com",
+      "source": "https://drive.google.com/drive/folders/1P2FlSFeCVKSlh1fAsNjmLtCUIBtxlfsX?usp=drive_link"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/library.png",
+      "description": "Create and Customize your own library in this app.",
+      "skills": ["JS", "React", "Tailwind", "Firebase"],
+      "demo": "https://library-app-dddfe.web.app/",
+      "source": "https://drive.google.com/drive/folders/1w9X5D0wXgXuxvmpYZL4cKiWOfvT0dWyr"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "E-commerce project developed using PHP.",
+      "skills": ["PHP", "Boostrap", "MySQL"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

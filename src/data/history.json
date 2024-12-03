@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Web Developer",
+      "organisation": "KMD",
+      "startDate": "March, 2023",
+      "endDate": "Feb, 2024",
+      "experiences": ["Worked in Team", "Developed E-commerce project using PHP"],
+      "imageSrc": "history/kmd.jpg"
+    },
+    
+    {
+      "role": "Web Developer",
+      "organisation": "Freelance",
+      "startDate": "Oct, 2023",
+      "endDate": "Jan, 2024",
+      "experiences": ["Develop Simple Projects", "Using HTML, CSS and PHP"],
+      "imageSrc": "history/me.png"
+    }
+  ]
