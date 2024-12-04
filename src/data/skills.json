@@ -36,6 +36,10 @@
       "imageSrc": "skills/mysql.png"
     },
     {
+      "title" : "Boostrap",
+      "imageSrc" : "skills/bootstrap.png"
+    },
+    {
       "title" : "Git & Github",
       "imageSrc" : "skills/github.png"
     }
