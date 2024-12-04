@@ -12,12 +12,12 @@ export const Hero = () => {
           I'm a web developer with 1.5 years of experience using PHP and
           Laravel. Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:swanthetpaing34@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/me.jpg")}
+        src={getImageUrl("hero/me3.jpg")}
         alt="Hero image of me"
         className={styles.heroImg}
       />

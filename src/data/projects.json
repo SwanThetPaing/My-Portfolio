@@ -5,7 +5,7 @@
       "description": "This is a project made to get knowledge about Animated Movies by building a web app.",
       "skills": ["PHP", "Laravel", "MySQL"],
       "demo": "https://www.example.com",
-      "source": "https://drive.google.com/drive/folders/1P2FlSFeCVKSlh1fAsNjmLtCUIBtxlfsX?usp=drive_link"
+      "source": "https://github.com/SwanThetPaing/Recommend_Movies_Online"
     },
     {
       "title": "Project B",
@@ -13,14 +13,22 @@
       "description": "Create and Customize your own library in this app.",
       "skills": ["JS", "React", "Tailwind", "Firebase"],
       "demo": "https://library-app-dddfe.web.app/",
-      "source": "https://drive.google.com/drive/folders/1w9X5D0wXgXuxvmpYZL4cKiWOfvT0dWyr"
+      "source": "https://github.com/SwanThetPaing/library"
     },
     {
       "title": "Project C",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/laravele6.png",
+      "description": "E-commerce project developed using PHP and Laravel with order_control feature.",
+      "skills": ["PHP", "Laravel" ,"Boostrap", "MySQL"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/SwanThetPaing/laravelecommerce"
+    },
+    {
+      "title": "Project D",
+      "imageSrc": "projects/goalgist3.png",
       "description": "E-commerce project developed using PHP.",
       "skills": ["PHP", "Boostrap", "MySQL"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/SwanThetPaing/goalgist"
     }
   ]
